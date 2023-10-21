@@ -4,7 +4,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(mymap);
 
-fetch('https://raw.githubusercontent.com/LocalHistoryMap/localhistorymap.github.io/main/data.json')
+fetch('https://raw.githubusercontent.com/LocalHistoryMap/localhistorymap.github.io/main/German/GermanData.json')
 .then(response => response.json())
 .then(data => {
     // Now, you can iterate through the JSON array
