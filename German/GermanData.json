@@ -61,5 +61,47 @@
         "Text": "Der Marsch der Wachen nach Finchley, auch bekannt als Der Marsch nach Finchley oder Der Marsch der Wachen, ist ein Ölgemälde von 1750 des englischen Künstlers William Hogarth, das im Foundling Museum besessen und ausgestellt wird. Das Gemälde zeigt eine fiktive Musterung von Truppen auf der Tottenham Court Road, die nach Norden nach Finchley marschieren, um die Hauptstadt vor der zweiten Jakobiten-Rebellion von 1745 zu verteidigen, die Teil einer Serie von Aufständen war, die seit dem späten 17. Jahrhundert stattgefunden hatten und darauf abzielten, die Stuart-Dynastie nach der Glorreichen Revolution von 1688 wieder auf den Thron zu bringen.",
         "Link": "https://de.wikipedia.org/wiki/Der_Marsch_der_Wachen_nach_Finchley",
         "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/William_Hogarth_007.jpg/405px-William_Hogarth_007.jpg"
-	}
+	},
+    {
+        "Title": "Schießstand im Feenland",
+        "Cords": [51.521910, -0.135910],
+        "Text": "Während der Zeit vor dem Ersten Weltkrieg und währenddessen befand sich ein Vergnügungsarkade mit einem Miniaturgewehrschießstand namens Feenland in der Tottenham Court Road Nr. 92. Im Jahr 1909 übte Madan Lal Dhingra hier das Schießen, bevor er Sir William Hutt Curzon Wyllie ermordete.",
+        "Link": "https://de.wikipedia.org/wiki/Tottenham_Court_Road#Fairyland_Schießstand",
+        "Image": "None"
+    },
+    {
+        "Title": "Verschwinden der Besatzung des Leuchtturms Flannan Isles",
+        "Cords": [58.287591, -7.589141],
+        "Text": "'Ein schrecklicher Unfall ist auf den Flannans passiert. Die drei Wärter Ducat, Marshall und der Gelegenheitswärter sind von der Insel verschwunden... Die Uhren wurden angehalten und andere Anzeichen deuten darauf hin, dass der Unfall vor etwa einer Woche passiert sein muss. Die armen Männer müssen über die Klippen geweht oder ertrunken sein, als sie versuchten, einen Kran zu sichern.' - Telegramm von Kapitän Harvie an die Northern Lighthouse Board am 26.12.1900",
+        "Link": "https://de.wikipedia.org/wiki/Leuchtturm_Flannan_Isles#Verschwinden_der_Besatzung_1900",
+        "Image": "None"
+    },
+    {
+        "Title": "Landeplatz von Rudolf Hess",
+        "Cords": [55.759239, -4.300590],
+        "Text": "Kurz vor Mitternacht am 10. Mai 1941 landete Hess auf dem Floors Farm südlich von Glasgow bei Waterfoot, wo er vom örtlichen Pflugmann David McLean immer noch mit seinem Fallschirm kämpfend entdeckt wurde.",
+        "Link": "https://de.wikipedia.org/wiki/Rudolf_Hess",
+        "Image": "None"
+    },
+    {
+        "Title": "Bierflut in der Tottenham Court Road",
+        "Cords": [51.520302, -0.133998],
+        "Text": "Als 1814 eine Brauerei in der Tottenham Court Road explodierte, füllten sich die Straßen mit Bier. Bis zu 323.000 Gallonen töteten 8 Menschen, die in den Slums hinter dem Gelände lebten.",
+        "Link": "https://www.mylondon.news/news/nostalgia/unbelievable-true-story-day-300000-18117325",
+        "Image": "None"
+    },
+    {
+        "Title": "Vorgeschlagene Todespyramide",
+        "Cords": [51.539254, -0.164254],
+        "Text": "Das Metropolitan Sepulchre war ein massives pyramidenförmiges Nekropolis, das im 19. Jahrhundert in Primrose Hill in London als Lösung für den Mangel an Bestattungsplatz im Londoner Raum vorgeschlagen wurde.",
+        "Link": "https://de.wikipedia.org/wiki/Metropolitan_Sepulchre",
+        "Image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irWUeyj8.KUg/v0/-1x-1.png"
+    },
+    {
+        "Title": "Tynwald",
+        "Cords": [54.1511175,-4.4811476],
+        "Text": "Tynwald beansprucht über 1.000 Jahre alt zu sein und somit das 'älteste kontinuierliche Parlament' der Welt.",
+        "Link": "https://de.wikipedia.org/wiki/Tynwald#Geschichte_des_Tynwald",
+        "Image": "None"
+    }
 ]
