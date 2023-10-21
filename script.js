@@ -16,7 +16,7 @@ fetch('https://raw.githubusercontent.com/LocalHistoryMap/localhistorymap.github.
             marker.bindPopup(`<b>${element.Title}</b> <a href=${element.Link}>Article</a><br>${element.Text}`);
         } else {
             var marker = L.marker(element.Cords).addTo(mymap);
-            marker.bindPopup(`<b>${element.Title}</b> <a href=element.Link}>Article</a><br><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/William_Hogarth_007.jpg/405px-William_Hogarth_007.jpg" alt="Image" style="float:right;width:100%;height:auto;"><br>${element.Text}`);
+            marker.bindPopup(`<b>${element.Title}</b> <a href=element.Link}>Article</a><br><img src="${element.Image}" alt="Image" style="float:right;width:100%;height:auto;"><br>${element.Text}`);
         }
         
     });
