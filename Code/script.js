@@ -1,3 +1,7 @@
+if(window.innerHeight > window.innerWidth){
+    alert("Please use Landscape!");
+}
+
 var mymap = L.map('map').setView([51.5080, 0], 5);
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
